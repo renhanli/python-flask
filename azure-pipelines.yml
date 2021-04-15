@@ -14,7 +14,7 @@ variables:
   webAppName: 'rhlLinuxPythonDevOps'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'ubuntu-18.04'
 
   # Environment name
   environmentName: 'rhlLinuxPythonDevOps'
